@@ -66,7 +66,8 @@ Notas:
 - No necesita hacer uso de una base de datos para este ejercicio.
 - Todas las reglas que la compañía usa para calcular el costo total fueron dadas
   anteriormente. No necesita aplicar ninguna otra regla.
-  Requisitos:
+  
+Requisitos:
 - Hacer uso de dos o más tipos de clases diferentes.
 - Hacer uso de herencia y polimorfismo.
 - Hacer uso de funciones lambda y/o funciones acotadas.
